@@ -1,27 +1,14 @@
 +++
 title = "About"
-date = "2019-01-25"
-author = "Radek"
+date = "2023-04-28"
+author = "Jiwei, Yuan"
 +++
 
-# Hi there
+Hi, I'm Jiwei Yuan.
 
-My name is Radek and I'm the author of this theme. I made it to help you present your ideas easier.
+I'm a professional software development engineer. I devoted myself to building Enterprise SaaS, Data-intensive applications, and Distributed Systems.
 
-We all know how hard is to start something on the web, especially these days. You need to prepare a bunch of stuff, configure them and when that’s done — create the content.
+I'm a pragmatic learning hacker, I use Anki(spaced repetition) to improve my memorization and use Obsidian to practice incremental reading as well as incremental writing. Also, I will develop some tiny applications or plugins in my free time to improve my productivity.
 
-This theme is pretty basic and covers all of the essentials. All you have to do is start typing!
+I'm an individual researcher, I'm interested in how to build an intelligent system. Thus, I will commit some time to learn Probalistic Theory and Machine Learning Theory.
 
-The theme includes:
-
-- **5 duotone themes**, depending on your preferences (orange, red, blue, green, pink)
-- [**Fira Code**](https://github.com/tonsky/FiraCode) as default monospaced font. It's gorgeous!
-- **really nice, custom duotone** syntax highlighting based on [**PrismJS**](https://prismjs.com)
-- mobile friendly layout
-
-So, there you have it... enjoy!
-
-
-| ss | sf  |
-| ---  | --- |
-|test | `test` |
