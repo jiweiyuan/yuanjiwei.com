@@ -46,7 +46,7 @@ paginate = 5
 [languages]
   [languages.en]
     languageName = "English"
-    title = "Yuan Jiwei's Blog"
+    title = "Jiwei Yuan's Blog"
     subtitle = "A Software Engineer's Notes"
     owner = ""
     keywords = ""
@@ -58,7 +58,7 @@ paginate = 5
     missingBackButtonLabel = "Back to home page"
 
     [languages.en.params.logo]
-      logoText = "Yuan Jiwei"
+      logoText = "Jiwei Yuan's Homepage"
       logoHomeLink = "/"
 
     [languages.en.menu]
