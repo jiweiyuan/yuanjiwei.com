@@ -1,7 +1,7 @@
 ---
-title: "Showcase"
+title: "Article"
 date: "2018-07-18"
-author: "Hello Robot"
+author: "Jiwei, Yuan"
 ---
 
 ## Header 2
