@@ -13,4 +13,3 @@ I'm a pragmatic learning hacker, I use Anki (spaced repetition) to improve my me
 By the way, I'm currently interested in how to build an intelligent system. Thus, I will commit some time to learn Probalistic Theory and Machine Learning Theory.
 
 In this blog, I will share my thoughts on software applications, architecture, and engineering. And sometimes I will share what I learn from reading books about learning science and creativity psychology, of course, and my real personal experiences on how to pursue excellence. 
-
