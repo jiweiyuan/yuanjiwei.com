@@ -8,7 +8,7 @@ Hi, I'm Jiwei Yuan.
 
 I'm a professional software development engineer.
 
-I graduated in 2018 from [Shandong University](http://www.en.sdu.edu.cn/) with a bachelor's degree. I'm currently pursuing a Master's degree in Computer Science at the [University of St Andrews](https://www.st-andrews.ac.uk/) from 2023 to 2024.
+I graduated in 2018 from [Shandong University](http://www.sdu.edu.cn/) with a bachelor's degree. I'm currently pursuing a Master's degree in Computer Science at the [University of St Andrews](https://www.st-andrews.ac.uk/) from 2023 to 2024.
 
 I have experience in Java, Golang, and JavaScript. Currently, I primarily focus on the backend development. I devoted myself to building Enterprise SaaS, Data-intensive applications, and Distributed Systems Application. 
 
