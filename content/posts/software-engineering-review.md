@@ -14,5 +14,4 @@ color = "" #color from the theme settings
 draft = false
 +++
 
-![Software Engineering Review](https://a22b80fa365fb7cf04d194272379b669.r2.cloudflarestorage.com/images/20231202-software-engineering.png)
-
+![Software Engineering Review](https://raw.githubusercontent.com/jiweiyuan/images/main/20231202-software-engineering.png)
