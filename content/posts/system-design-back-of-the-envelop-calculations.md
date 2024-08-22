@@ -56,8 +56,7 @@ In physics, dimensional analysis is a go-to heuristic for checking equations. In
 | 40    | 1,099,511,627,776    | 1 trillion   | 1 TB  |
 
 
-As an architecture, what we conceive should not only focus on performance but also consider cost. Below are the computing cost and storage cost for the cloud hosted service.
-
+As an architecture, what we are concerned with should not only focus on performance but also consider cost. Below are the computing costs and storage costs for the cloud-hosted service.
 ##### Compute
 
 | Provider      | (1 vCPU, 2 GB RAM) | Compute (8vCPUs, 32 GB RAM) |
