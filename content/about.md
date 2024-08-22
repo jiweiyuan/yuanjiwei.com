@@ -4,16 +4,10 @@ date = "2023-09-22"
 author = "Jiwei, Yuan"
 +++
 
-Hi, I'm Jiwei Yuan.
+Hi, I'm Jiwei Yuan, a programmer with experience in Java, Golang, and JavaScript. I graduated from [Shandong University](http://www.sdu.edu.cn/) in 2018.  Later, through self-teaching, I became a professional full-stack software engineer. After several years of work, I decided to return to university to pursue a Computer Science degree at the University of St Andrews(July 2023 to August 2024).
 
-I'm a professional software development engineer.
+My primary focus has been on building enterprise SaaS products, but I also have a keen interest in IaaS and PaaS. In this blog, I’ll share my thoughts on these areas from various perspectives, including programming, product development, architecture, and engineering.
 
-I graduated in 2018 from [Shandong University](http://www.sdu.edu.cn/) with a bachelor's degree. I'm currently pursuing a Master's degree in Computer Science at the [University of St Andrews](https://www.st-andrews.ac.uk/) from 2023 to 2024.
+On a side note, I'm a pragmatic learning hacker, deeply curious about the science of learning and creativity. I’m always on the lookout for simple, high-ROI approaches to boost learning and productivity. I even built an app called [Remdraw](https://remdraw.com/) that turns whiteboard notes into flashcards to help people learn more effectively.
 
-I have experience in Java, Golang, and JavaScript. Currently, I primarily focus on the backend development. I devoted myself to building Enterprise SaaS, Data-intensive applications, and Distributed Systems Application. 
-
-I'm a pragmatic learning hacker. I'm curious about learning science and creativity psychology. I explore simple and high ROI approches to improve my learning and productity efficiency. I have share my experience and workflow to boost learning and productivity at [Learning Hacker](/posts/learning-hacker/) and [Knowledge Workflow](/posts/knowledge-workflow/).
-
-In this blog, I will share my thoughts on programming, software applications, software architecture, and software engineering. And sometimes I will share some real personal experiences on how to pursue excellence. 
-
-If you have any questions, please feel free to contact me by Email: ji-weiyuan[at]outlook.com or Twitter: [@JiweiYuan](https://twitter.com/JiweiYuan).
+If you have any questions or just want to connect, feel free to reach out via email at ji-weiyuan[at]outlook.com or on Twitter: [@JiweiYuan](https://twitter.com/JiweiYuan). I’m always happy to hear from you.
