@@ -49,8 +49,8 @@ In physics, dimensional analysis is a go-to heuristic for checking equations. In
 | 2   | AWS z1d.2xlarge       | Normal  | 8   | 4GHz    | 162315 | 24808 | 300            |
 | 4   | AWS c5d.metal         | Normal  | 96  | 3.6GHz  | 625849 | 71624 | 2500           |
 | 5   | AWS c5d.metal         | Extreme | 96  | 3.6GHz  | 1998580| 137127| 5000           |
-RO: read only query(one row from 100M rows)
-RW: read write query(one query, one insert, three updates)
+- RO: read only query(one row from 100M rows)
+- RW: read write query(one query, one insert, three updates)
 
 ## Cost Estimation
 As an architecture, what we are concerned with should not only focus on performance but also consider cost. Below are the computing costs and storage costs for the cloud-hosted service.
