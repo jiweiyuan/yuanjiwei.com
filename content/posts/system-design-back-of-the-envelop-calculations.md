@@ -16,7 +16,7 @@ draft = false
 
 
 
-In physics, dimensional analysis is a go-to heuristic for checking equations. In computer science, back-of-the-envelope calculations serve a similar purpose for rough estimations. Jeff Dean emphasised the importance of mastering this skill for every programmer in his talk [Software Engineering Advice from Building Large-Scale Distributed Systems](https://static.googleusercontent.com/media/research.google.com/en//people/jeff/stanford-295-talk.pdf). Why do we need back-of-the-envelope calculations? The calculation allow us to quickly assess the physical limitations of a running system. If there has a sigficant gap between our expectations(theoretical limination) and the actual cost, there might be an opportunity to optimize our systems. 
+In physics, dimensional analysis is a go-to heuristic for checking equations. In computer science, back-of-the-envelope calculations serve a similar purpose for rough estimations. Jeff Dean emphasised the importance of mastering this skill for every programmer in his talk [Software Engineering Advice from Building Large-Scale Distributed Systems](https://static.googleusercontent.com/media/research.google.com/en//people/jeff/stanford-295-talk.pdf). Why do we need back-of-the-envelope calculations? The calculation allow us to quickly assess the physical limitations of a running system. If there has a sigficant gap between our expectations(theoretical limitation) and the actual cost, there might be an opportunity to optimize our systems. 
 
 ## Performance
 
