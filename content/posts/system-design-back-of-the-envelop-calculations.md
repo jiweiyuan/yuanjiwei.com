@@ -88,6 +88,7 @@ Please note: For hardware, Reserved pricing is typically about half the cost of 
 | Amazon S3     | $0.023                      | $5.00                                   | $0.40                                   | $0.09               |
 | Cloudflare R2 | $0.015                      | $4.50                                   | $0.36                                   | No egress fee       |
 
+For more vendor pricing, please refer to [S3-Compatible Cloud Storage Costs](https://transactional.blog/blog/2023-cloud-storage-costs).
 
 ##### The Power of 2
 
