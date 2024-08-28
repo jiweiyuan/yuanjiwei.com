@@ -16,7 +16,7 @@ draft = false
 
 
 
-In physics, dimensional analysis is a go-to heuristic for checking equations. In computer science, back-of-the-envelope calculations serve a similar purpose for rough estimations. Jeff Dean emphasised the importance of mastering this skill for every programmer in his talk [Software Engineering Advice from Building Large-Scale Distributed Systems](https://static.googleusercontent.com/media/research.google.com/en//people/jeff/stanford-295-talk.pdf).
+In physics, dimensional analysis is a go-to heuristic for checking equations. In computer science, back-of-the-envelope calculations serve a similar purpose for rough estimations. Jeff Dean emphasised the importance of mastering this skill for every programmer in his talk [Software Engineering Advice from Building Large-Scale Distributed Systems](https://static.googleusercontent.com/media/research.google.com/en//people/jeff/stanford-295-talk.pdf). Why do we need back-of-the-envelope calculations? The calculation allow us to quickly assess the physical limitations of a running system. If there has a sigficant gap between our expectations(theoretical limination) and the actual cost, there might be an opportunity to optimize our systems. 
 
 ## Performance
 
@@ -54,6 +54,16 @@ In physics, dimensional analysis is a go-to heuristic for checking equations. In
 
 ## Cost Estimation
 As an architecture, what we are concerned with should not only focus on performance but also consider cost. Below are the computing costs and storage costs for the cloud-hosted service.
+
+#### Base Costs:
+
+- CPU: $10/Core/month
+- Memory: $2-3/GB/month
+- SSD: $0.10/GB/month
+- S3: $0.02/GB/month
+- HDD: $0.01 - $0.05/GB/month
+- Network (egress, between zones or regions): $0.05 - $0.10/GB/month
+Please note: For hardware, Reserved pricing is typically about half the cost of On-Demand Pricing.
 
 ##### Compute
 
