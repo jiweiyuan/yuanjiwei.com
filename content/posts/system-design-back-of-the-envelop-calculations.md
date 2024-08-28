@@ -57,12 +57,13 @@ As an architecture, what we are concerned with should not only focus on performa
 
 #### Base Costs:
 
-- CPU: $10/Core/month
-- Memory: $2-3/GB/month
-- SSD: $0.10/GB/month
-- S3: $0.02/GB/month
-- HDD: $0.01 - $0.05/GB/month
-- Network (egress, between zones or regions): $0.05 - $0.10/GB/month
+- **CPU**: $10/Core/month
+- **Memory**: $2-3/GB/month
+- **SSD**: $0.10/GB/month
+- **S3**: $0.02/GB/month
+- **HDD**: $0.01 - $0.05/GB/month
+- **Network** (egress, between zones or regions): $0.05 - $0.10/GB/month
+
 Please note: For hardware, Reserved pricing is typically about half the cost of On-Demand Pricing.
 
 ##### Compute
